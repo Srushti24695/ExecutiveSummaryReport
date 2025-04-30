@@ -1,6 +1,6 @@
 # AI-powered auto-report
 
-AI Report Generator.mp4
+[![Watch the Demo Video]([https://drive.google.com/file/d/1nMfD7QHRaBDC_Crwnn2gqTJBbHjQh3Om/view?usp=sharing](https://drive.google.com/file/d/1nMfD7QHRaBDC_Crwnn2gqTJBbHjQh3Om/view?usp=sharing))]
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
